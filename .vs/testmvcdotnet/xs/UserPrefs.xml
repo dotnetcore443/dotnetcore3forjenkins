@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{BA965F24-F687-475A-89DE-A816F901E39D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testmvcdotnet/Startup.cs">
+    <Files>
+      <File FileName="testmvcdotnet/Migrations/20200224085725_InitialCreate.cs" Line="21" Column="10" />
+      <File FileName="testmvcdotnet/appsettings.json" />
+      <File FileName="testmvcdotnet/Migrations/MvcMovieContextModelSnapshot.cs" />
+      <File FileName="testmvcdotnet/Data/MvcMovieContext.cs" />
+      <File FileName="testmvcdotnet/Startup.cs" Line="19" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testmvcdotnet" expanded="True">
+            <Node name="testmvcdotnet" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Movies" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.testmvcdotnet PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
