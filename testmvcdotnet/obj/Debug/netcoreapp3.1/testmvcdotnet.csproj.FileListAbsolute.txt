@@ -162,4 +162,3 @@
 /Users/mit/Documents/dotnetcore/testmvcdotnet/testmvcdotnet/obj/Debug/netcoreapp3.1/staticwebassets/testmvcdotnet.StaticWebAssets.xml
 /Users/mit/Documents/dotnetcore/testmvcdotnet/testmvcdotnet/obj/Debug/netcoreapp3.1/testmvcdotnet.dll
 /Users/mit/Documents/dotnetcore/testmvcdotnet/testmvcdotnet/obj/Debug/netcoreapp3.1/testmvcdotnet.pdb
-/Users/mit/Documents/dotnetcore/testmvcdotnet/testmvcdotnet/obj/Debug/netcoreapp3.1/testmvcdotnet.csprojAssemblyReference.cache
